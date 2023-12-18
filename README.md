@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning : Devops, MERN
 
-🤔 I’m searching for : SDE Intern and FTE opportunities, 
+💼 I'm searching for : SDE Intern and FTE opportunities, 
 
 🔭 I’m currently working on : Meta Heuristic Based Routing Algorithm Optimization🐝
 
