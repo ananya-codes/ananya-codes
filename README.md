@@ -1,4 +1,4 @@
-### Hi, I'm Ananya👩‍💻
+# Hi, I'm Ananya👩‍💻
 
 #### I'm currently a final year CS student who is passionate about Problem Solving and Development.
 
@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 💻 Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+## 💻 Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 `C++` `HTML5`, `CSS`, `JS`, `MERN`, `Docker`, `Go Lang`, `gofr`, `gem5`, `solidity` `PHP`, `mysql`
 
-### 🌐 Connect via
+## 🌐 Connect via
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-garg-78a9691bb/)
   [<img src = "https://github.com/ananya-codes/ananya-codes/assets/77432683/efe1d3cb-72c0-4dff-ad6e-ac862a78b98e)" width = 32px>](https://open.spotify.com/user/lf9n9ybwqudqtjdomaa2t66lx)
 
